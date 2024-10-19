@@ -1,4 +1,4 @@
 provider
 {
-region: 
+region: us-west-2
 }
